@@ -28,7 +28,7 @@ while ($row = $result->fetch_assoc()) {
     <link rel="stylesheet" href="../Home/Home.css">
     <link rel="stylesheet" href="../Dashboard/dashboard.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
-    <title>Users</title>
+    <title>Users ni je</title>
 </head>
 <body>
     <?php include '../Dashboard/dashboard.php'; ?>
